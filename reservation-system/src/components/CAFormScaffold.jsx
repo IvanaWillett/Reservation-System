@@ -57,7 +57,7 @@ const schema = Joi.object({
     }),
   repeat_password: Joi.ref("password"),
   email: Joi.string()
-    .email({ tlds: { allow: ["com", "net"] } })
+    .email({ tlds: { allow: ["com", "net", "ca"] } })
     .required()
     .messages({
       "string.email": "Email should be in a valid format",
