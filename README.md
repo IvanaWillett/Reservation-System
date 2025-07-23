@@ -48,22 +48,21 @@ npm run dev
 
 Screenshots
 ---
-1. Landing Page ![LandingPage](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/cbd08966-3705-45ce-939b-42cad1373ade" />
-)
-2. Create Account ![CreateAccount](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/db3efa25-c055-465f-992b-d9c1d44ef771" />
-)
-3. Login ![Login](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/ab1f9e9a-5c75-4923-8eca-6f94b3434a8b" />
-) 
-4. Customer Dashboard ![Customer Dashboard](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/76646062-1386-465b-acbd-770633674ad9" />
-)
-5. Customer Reservation ![Customer Reservation](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/4193509a-d74f-40ad-91b9-2672c01a0076" />
-)
-6. Staff Dashboard ![Staff Dashboard](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/bfd81a02-b0bd-4efe-aa53-fe1092589549" />
-)
-7. Manage Floorplans ![Manage Floorplans](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/fa291289-9161-4eef-8285-01f72c7b1431" />
-)
-8. Create Floorplan ![CreateFloorplan](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/4a6042f1-9a6f-40ce-a861-cc99520a2719" />
-)
+
+1. Landing Page <img width="1920" height="993" alt="Screenshot 2025-07-23 at 3 29 41 PM" src="https://github.com/user-attachments/assets/2a80d1c7-8dfd-4e83-a405-029fcc12253a" />
+2. Create Account <img width="1920" height="993" alt="Screenshot 2025-07-23 at 3 33 42 PM" src="https://github.com/user-attachments/assets/7d9b0c24-97a8-4063-9d5d-060f39db5443" />
+
+3. Login <img width="1920" height="993" alt="Screenshot 2025-07-23 at 3 34 53 PM" src="https://github.com/user-attachments/assets/66a76f84-2ef0-4b65-b7a1-9707b26ec0ec" />
+
+4. Customer Dashboard <img width="1920" height="993" alt="Screenshot 2025-07-23 at 3 30 16 PM" src="https://github.com/user-attachments/assets/a0cae6ca-71a3-4d4a-b2ad-1069102df182" />
+
+5. Customer Reservation <img width="1920" height="993" alt="Screenshot 2025-07-23 at 3 30 25 PM" src="https://github.com/user-attachments/assets/d7f767bc-907b-48c4-945d-4c275c3f79bb" />
+
+6. Staff Dashboard <img width="1920" height="993" alt="Screenshot 2025-07-23 at 3 29 26 PM" src="https://github.com/user-attachments/assets/1a3f6086-7989-4e8b-9ac3-4fc26db10a52" />
+
+7. Manage Floorplans <img width="1920" height="993" alt="Screenshot 2025-07-23 at 3 29 07 PM" src="https://github.com/user-attachments/assets/c4772201-2c37-40e6-bb21-05f7a094dc00" />
+
+8. Create Floorplan <img width="1920" height="993" alt="Screenshot 2025-07-23 at 3 28 55 PM" src="https://github.com/user-attachments/assets/7589fee0-57c1-4f2d-9337-c62c7abdaf77" />
 
 Fake credentials for testing
 ---
