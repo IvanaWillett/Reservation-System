@@ -9,12 +9,9 @@ The web app makes extensive use of Supabase's realtime features to subscribe to 
 A drag-and-drop floor plan creator was also implemented which allows managers to intuitively create custom floor plans for restaurants.
 
 Created with: 
-- **React + Vite**
-- **Node.js**
-- **Supabase**
-- **PostgreSQL**
-- **TailwindCSS**
-- **Shadcn/ui**
+- **React**
+- **Supabase + PostgreSQL**
+- **TailwindCSS + Shadcn/ui**
   
 Tested with: 
 - **Vitest**
