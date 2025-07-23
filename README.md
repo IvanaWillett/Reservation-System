@@ -46,6 +46,25 @@ npm run dev
 
 ###### *The commands above only work if you have been given the .env file.
 
+Screenshots
+---
+1. Landing Page ![LandingPage](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/cbd08966-3705-45ce-939b-42cad1373ade" />
+)
+2. Create Account ![CreateAccount](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/db3efa25-c055-465f-992b-d9c1d44ef771" />
+)
+3. Login ![Login](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/ab1f9e9a-5c75-4923-8eca-6f94b3434a8b" />
+) 
+4. Customer Dashboard ![Customer Dashboard](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/76646062-1386-465b-acbd-770633674ad9" />
+)
+5. Customer Reservation ![Customer Reservation](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/4193509a-d74f-40ad-91b9-2672c01a0076" />
+)
+6. Staff Dashboard ![Staff Dashboard](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/bfd81a02-b0bd-4efe-aa53-fe1092589549" />
+)
+7. Manage Floorplans ![Manage Floorplans](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/fa291289-9161-4eef-8285-01f72c7b1431" />
+)
+8. Create Floorplan ![CreateFloorplan](<img width="1920" height="993" alt="image" src="https://github.com/user-attachments/assets/4a6042f1-9a6f-40ce-a861-cc99520a2719" />
+)
+
 Fake credentials for testing
 ---
 The following credentials were arbitrarily created and some were used to manually test the application. 
