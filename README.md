@@ -21,8 +21,6 @@ Tested with:
 Hosted on:
 - Render
 
-Project Demo: https://youtu.be/skylZBg40po
-
 Live deployment
 ---
 https://smartq.onrender.com
@@ -49,6 +47,10 @@ npm run dev
 ```
 
 ###### *The commands above only work if you have been given the .env file.
+
+Project Demo
+---
+https://youtu.be/skylZBg40po
 
 Screenshots
 ---
