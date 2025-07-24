@@ -21,6 +21,8 @@ Tested with:
 Hosted on:
 - Render
 
+Project Demo: https://youtu.be/skylZBg40po
+
 Live deployment
 ---
 https://smartq.onrender.com
